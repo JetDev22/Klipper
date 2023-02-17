@@ -1,17 +1,5 @@
+![image info](logo.png)
 
-██████  ███████  █████  ██████
-██   ██ ██      ██   ██ ██   ██
-██████  █████   ███████ ██████
-██   ██ ██      ██   ██ ██   ██
-██████  ███████ ██   ██ ██   ██
-
-
- ██████ ██       ██████  ███    ██ ███████ 
-██      ██      ██    ██ ████   ██ ██      
-██      ██      ██    ██ ██ ██  ██ █████   
-██      ██      ██    ██ ██  ██ ██ ██      
- ██████ ███████  ██████  ██   ████ ███████ 
-                      
 ## Intro
 ***
 When my Anycubic Mega S started making problems I decided to take it apart and save the parts for a later project.
